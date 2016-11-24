@@ -1,0 +1,22 @@
+##
+## sigma.cow
+## (c) maxieds@gmail.com
+##
+$the_cow = <<EOC;
+ $thoughts
+   $thoughts
+        -/////////////////:             
+        +mMMMMMddddddddddMM             
+         .omMMMh-`       +d             
+           `+dMMMy:`                    
+             `/dMMMh/`                  
+               `:hMMMd/                 
+                 `hMMh:                 
+               `/hNh:`                  
+             `/dNy-`                    
+           `+mMy-`       :s             
+         `omMMdsooooooooyNM             
+        /mMMMMMMMMMMMMMMMMM             
+        -::::::::::::::::::             
+
+EOC

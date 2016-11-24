@@ -1,0 +1,77 @@
+CREDITS: 
+
+This package provides extensions for a modified fortune and 
+cowsay 'Sigma' cow file that speak "mathy" quotes and wisdom. 
+The Sigma.cow file contained in this repository may be reproduced and/or 
+copied freely provided that this README remains intact. 
+E-mail the package creator / maintainer at maxieds@gmail.com with 
+questions or suggestions or to contribute your wisdom / cows to the 
+working package database. 
+
+Sources of the Mathy Quotes (Thanks to Bruce Reznick for Sharing): 
+https://www.math.utah.edu/~cherk/mathjokes.html
+http://www.sonoma.edu/Math/faculty/falbo/jokes.html
+
+PREREQUISITES: 
+
+A working installation of the fortune (fortune-mod) and cowsay 
+utilities are required for this add-on to be of use. 
+On a Debian-based Linux box (Ubuntu, Mint, etc.), these packages 
+can be installed by running the following commands: 
+    $ sudo apt-get update
+    $ sudo apt-get install cowsay fortunes fortune-mod fortunes-off
+Other fortune-modded packages are found by issuing: 
+    $ apt-cache search fortune
+    $ apt-cache search cowsay
+To install these utilities on Mac OSX, consult the following link: 
+https://gist.github.com/evnm/1308428. 
+Installation on any Windows variant is considered experimental and 
+is unsupported. 
+
+DOWNLOADING AND PACKAGE INSTALLATION: 
+
+You need a working directory containing the files in the 
+GitHub repository https://github.com/maxieds/math-fortune-mod.git: 
+     => math.fortunes
+     => Sigma.cow
+     => install.sh
+     => README (this document)
+You can either copy each of these files directly from the 
+web repository, or alternately, automate the process by running the 
+following command from your favorite terminal: 
+    $ git clone https://github.com/maxieds/math-fortune-mod.git
+    $ cd math-fortune-mod
+Next, the fortune and cow files are installed by running the 
+provided install script (requires superuser privileges to copy the 
+files into /usr/share/*): 
+    $ sudo /bin/bash install.sh
+
+The install script adds a line to your working ~/.bashrc file that 
+will print a Sigma-symbol-spoken math joke or quote whenever you 
+(re)start the terminal (try typing: $ source ~/.bashrc). Additionally, 
+you can run the math fortune mod manually by issuing: 
+    $ /usr/games/fortune math.fortunes | /usr/games/cowsay -f Sigma
+For example, 
+
+ ________________________________________
+/ A statistician is someone who is good  \
+| with numbers but lacks the personality |
+\ to be an accountant.                   /
+ ----------------------------------------
+ \
+   \
+        -/////////////////:             
+        +mMMMMMddddddddddMM             
+         .omMMMh-`       +d             
+           `+dMMMy:`                    
+             `/dMMMh/`                  
+               `:hMMMd/                 
+                 `hMMh:                 
+               `/hNh:`                  
+             `/dNy-`                    
+           `+mMy-`       :s             
+         `omMMdsooooooooyNM             
+        /mMMMMMMMMMMMMMMMMM             
+        -::::::::::::::::::             
+
+
