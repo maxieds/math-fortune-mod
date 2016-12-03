@@ -144,11 +144,322 @@ A: It’s a sinh.
 % 
 A surgeon, a Mathematician and a Politician were arguing about whose profession was the oldest. The surgeon stated that his profession was first, "After all", he asked, "who do you think helped god make Eve out of one of Adam's ribs?" The mathematician said "No, before Adam and Eve and even before the Big Bang, there was chaos and God needed a mahematician to show him how to use chaos theory." The politician spoke up, "Ha! I win, who do you think caused the chaos?"
 %
+Two is the oddest prime of all, because it's the only one that's even!
+%
+Several scientists were asked to prove that all odd integers higher than 2 are prime.
 
+ Mathematician: 3 is a prime, 5 is a prime, 7 is a prime, and by induction - every odd integer higher than 2 is a prime.
+Physicist: 3 is a prime, 5 is a prime, 7 is a prime, 9 is an experimental error, 11 is a prime. Just to be sure, try several randomly chosen numbers: 17 is a prime, 23 is a prime...
+Engineer: 3 is a prime, 5 is a prime, 7 is a prime, 9 is an approximation to a prime, 11 is a prime,...
+Programmer (reading the output on the screen): 3 is a prime, 3 is a prime, 3 a is prime, 3 is a prime....
+Biologist: 3 is a prime, 5 is a prime, 7 is a prime, 9 -- results have not arrived yet,...
+Psychologist: 3 is a prime, 5 is a prime, 7 is a prime, 9 is a prime but tries to suppress it,...
+Chemist (or Dan Quayle): What's a prime?
+Politician: "Some numbers are prime.. but the goal is to create a kinder, gentler society where all numbers are prime... "
+Programmer: "Wait a minute, I think I have an algorithm from Knuth on finding prime numbers... just a little bit longer, I've found the last bug... no, that's not it... ya know, I think there may be a compiler bug here - oh, did you want IEEE-998.0334 rounding or not? - was that in the spec? - hold on, I've almost got it - I was up all night working on this program, ya know... now if management would just get me that new workstation that just came out, I'd be done by now... etc., etc. ..." 
+%
+An engineer, a physicist and a mathematician are staying in a hotel.
+The engineer wakes up and smells smoke. He goes out into the hallway and sees a fire, so he fills a trash can from his room with water and douses the fire. He goes back to bed.
+Later, the physicist wakes up and smells smoke. He opens his door and sees a fire in the hallway. He walks down the hall to a fire hose and after calculating the flame velocity, distance, water pressure, trajectory, etc. extinguishes the fire with the minimum amount of water and energy needed.
+Later, the mathematician wakes up and smells smoke. He goes to the hall, sees the fire and then the fire hose. He thinks for a moment and then exclaims, "Ah, a solution exists!" and then goes back to bed.  
+%
+A physicist and a mathematician are sitting in a faculty lounge. Suddenly, the coffee machine catches on fire. The physicist grabs a bucket and leap towards the sink, filled the bucket with water and puts out the fire. Second day, the same two sit in the same lounge. Again, the coffee machine catches on fire. This time, the mathematician stands up, got a bucket, hands the bucket to the physicist, thus reducing the problem to a previously solved one.
+%
+A mathematician and an engineer are on desert island. They find two palm trees with one coconut each. The engineer climbs up one tree, gets the coconut, eats. The mathematician climbs up the other tree, gets the coconut, climbs the other tree and puts it there. "Now we've reduced it to a problem we know how to solve."
+%
+Several scientists were all posed the following question: "What is pi ?"
+The engineer said: "It is approximately 3 and 1/7"
+The physicist said: "It is 3.14159"
+The mathematician thought a bit, and replied "It is equal to pi".  
+%
+What is the difference between a Psychotic, a Neurotic and a mathematician? A Psychotic believes that 2+2=5. A Neurotic knows that 2+2=4, but it kills him. A mathematician simply changes the base. 
+%
+"This is a one line proof...if we start sufficiently far to the left." 
+%
+"The problems for the exam will be similar to the discussed in the class. Of course, the numbers will be different. But not all of them. Pi will still be 3.14159... " 
+%
+Proof by vigorous handwaving:
+    Works well in a classroom or seminar setting.
+%
+Proof by forward reference:
+    Reference is usually to a forthcoming paper of the author, which is often not as forthcoming as at first.
+%
+Proof by funding:
+    How could three different government agencies be wrong?
+%
+Proof by example:
+    The author gives only the case n = 2 and suggests that it contains most of the ideas of the general proof.
+%
+Proof by omission:
+    "The reader may easily supply the details" or "The other 253 cases are analogous"
+%
+Proof by deferral:
+    "We'll prove this later in the course".
+%
+Proof by picture:
+    A more convincing form of proof by example. Combines well with proof by omission.
+%
+Proof by intimidation:
+    "Trivial."
+%
+Proof by adverb:
+    "As is quite clear, the elementary aforementioned statement is obviously valid."
+%
+Proof by seduction:
+    "Convince yourself that this is true! "
+%
+Proof by cumbersome notation:
+    Best done with access to at least four alphabets and special symbols.
+%
+Proof by exhaustion:
+    An issue or two of a journal devoted to your proof is useful.
+%
+Proof by obfuscation:
+    A long plotless sequence of true and/or meaningless syntactically related statements.
+%
+Proof by wishful citation:
+    The author cites the negation, converse, or generalization of a theorem from the literature to support his claims.
+%
+Proof by eminent authority:
+    "I saw Karp in the elevator and he said it was probably NP- complete."
+%
+Proof by personal communication:
+    "Eight-dimensional colored cycle stripping is NP-complete [Karp, personal communication]."
+%
+Proof by reduction to the wrong problem:
+    "To see that infinite-dimensional colored cycle stripping is decidable, we reduce it to the halting problem."
+%
+Proof by reference to inaccessible literature:
+    The author cites a simple corollary of a theorem to be found in a privately circulated memoir of the Slovenian Philological Society, 1883.
+%
+Proof by importance:
+    A large body of useful consequences all follow from the proposition in question.
+%
+Proof by accumulated evidence:
+    Long and diligent search has not revealed a counterexample.
+%
+Proof by cosmology:
+    The negation of the proposition is unimaginable or meaningless. Popular for proofs of the existence of God.
+%
+Proof by mutual reference:
+    In reference A, Theorem 5 is said to follow from Theorem 3 in reference B, which is shown to follow from Corollary 6.2 in reference C, which is an easy consequence of Theorem 5 in reference A.
+%
+Proof by metaproof:
+    A method is given to construct the desired proof. The correctness of the method is proved by any of these techniques.
+%
+Proof by vehement assertion:
+    It is useful to have some kind of authority relation to the audience.
+%
+Proof by ghost reference:
+    Nothing even remotely resembling the cited theorem appears in the reference given.
+%
+Proof by semantic shift:
+    Some of the standard but inconvenient definitions are changed for the statement of the result.
+%
+Proof by appeal to intuition:
+    Cloud-shaped drawings frequently help here.
+%
+CLEARLY:
+    I don't want to write down all the "in- between" steps.
+%
+TRIVIAL:
+    If I have to show you how to do this, you're in the wrong class.
+%
+OBVIOUSLY:
+    I hope you weren't sleeping when we discussed this earlier, because I refuse to repeat it.
+%
+RECALL:
+    I shouldn't have to tell you this, but for those of you who erase your memory tapes after every test...
+%
+WLOG (Without Loss Of Generality):
+    I'm not about to do all the possible cases, so I'll do one and let you figure out the rest.
+%
+IT CAN EASILY BE SHOWN:
+    Even you, in your finite wisdom, should be able to prove this without me holding your hand.
+%
+CHECK or CHECK FOR YOURSELF:
+    This is the boring part of the proof, so you can do it on your own time.
+%
+SKETCH OF A PROOF:
+    I couldn't verify all the details, so I'll break it down into the parts I couldn't prove.
+%
+HINT:
+    The hardest of several possible ways to do a proof.
+%
+BRUTE FORCE (AND IGNORANCE):
+    Four special cases, three counting arguments, two long inductions, "and a partridge in a pair tree."
+%
+SOFT PROOF:
+    One third less filling (of the page) than your regular proof, but it requires two extra years of course work just to understand the terms.
+%
+ELEGANT PROOF:
+    Requires no previous knowledge of the subject matter and is less than ten lines long.
+%
+SIMILARLY:
+    At least one line of the proof of this case is the same as before.
+%
+CANONICAL FORM:
+    4 out of 5 mathematicians surveyed recommended this as the final form for their students who choose to finish.
+%
+TFAE (The Following Are Equivalent):
+    If I say this it means that, and if I say that it means the other thing, and if I say the other thing...
+%
+BY A PREVIOUS THEOREM:
+    I don't remember how it goes (come to think of it I'm not really sure we did this at all), but if I stated it right (or at all), then the rest of this follows.
+%
+TWO LINE PROOF:
+    I'll leave out everything but the conclusion, you can't question 'em if you can't see 'em.
+%
+BRIEFLY:
+    I'm running out of time, so I'll just write and talk faster.
+%
+LET'S TALK THROUGH IT:
+    I don't want to write it on the board lest I make a mistake.
+%
+PROCEED FORMALLY:
+    Manipulate symbols by the rules without any hint of their true meaning (popular in pure math courses).
+%
+QUANTIFY:
+    I can't find anything wrong with your proof except that it won't work if x is a moon of Jupiter (Popular in applied math courses).
+%
+PROOF OMITTED:
+    Trust me, It's true.
+%
+thinking:                                       hypothesizing.
+proof by contradiction or indirect proof:       reductio ad absurdum.
+mistake:                                        non sequitur.
+starting place:                                 handle.
+with corresponding changes:                     mutatis mutandis.
+counterexample:                                 pathological exception.
+consequently:                                   ipso facto.
+swallowing results:                             digesting proofs.
+therefore:                                      ergo.
+has an easy-to-understand, but hard-to-find solution: obvious.
+has two easy-to-understand, but hard-to-find solutions: trivial.
+%
+truth:                                          tautology.
+empty:                                          vacuous.
+drill problems:                                 plug-and-chug work.
+criteria:                                       rubric.
+example:                                        substantive  
+instantiation.
+similar structure:                              homomorphic.
+very similar structure:                         isomorphic.
+same area:                                      isometric.
+arithmetic:                                     number theory.
+count:                                          enumerate.
+%
+one:                                            unity.
+generally/specifically:                         globally/locally.
+constant:                                       invariant.
+bonus result:                                   corollary.
+distance:                                       metric measure.
+several:                                        a plurality.
+function/argument:                              operator/operand.
+separation/joining:                             bifurcation/confluence.
+fourth power or quartic:                        biquadratic.
+%
+random:                                         stochastic.
+unique condition:                               a singularity.
+uniqueness:                                     unicity.
+tends to zero:                                  vanishes.
+tip-top point:                                  apex.
+half-closed:                                    half-open.
+concave:                                        non-convex.
+rectangular prisms:                             parallelepipeds.
+%
+perpendicular (adj.):                           orthogonal.
+perpendicular (n.):                             normal.
+Euclid:                                         Descartes.
+Fermat:                                         Wiles.
+path:                                           trajectory.
+shift:                                          rectilinear translation.
+similar:                                        homologous.
+very similar:                                   congruent.
+whopper-jawed:                                  skew or oblique.
+change direction:                               perturb.
+join:                                           concatenate.
+approximate to two or more places:              accurate.
+%
+The highest moments in the life of a mathematician are the first few moments after one has proved the result, but before one finds the mistake. 
+%
+Relations between pure and applied mathematicians are based on trust and understanding. Namely, pure mathematicians do not trust applied mathematicians, and applied mathematicians do not understand pure mathematicians. 
+%
+If I have seen farther than others, it is because I was standing on the shoulders of giants.
+-- Isaac Newton
+%
+In the sciences, we are now uniquely privileged to sit side by side with the giants on whose shoulders we stand.
+-- Gerald Holton
+%
+If I have not seen as far as others, it is because giants were standing on my shoulders.
+-- Hal Abelson
+%
+Mathematicians stand on each other's shoulders.
+-- Gauss
+%
+Mathematicians stand on each other's shoulders while computer scientists stand on each other's toes.
+-- Richard Hamming
+%
+It has been said that physicists stand on one another's shoulders. If this is the case, then programmers stand on one another's toes, and software engineers dig each other's graves.
+-- Unknown 
+%
+Lemma 1. All horses are the same color. (Proof by induction)
 
+Proof. It is obvious that one horse is the same color. Let us assume the proposition P(k) that k horses are the same color and use this to imply that k+1 horses are the same color. Given the set of k+1 horses, we remove one horse; then the remaining k horses are the same color, by hypothesis. We remove another horse and replace the first; the k horses, by hypothesis, are again the same color. We repeat this until by exhaustion the k+1 sets of k horses have been shown to be the same color. It follows that since every horse is the same color as every other horse, P(k) entails P(k+1). But since we have shown P(1) to be true, P is true for all succeeding values of k, that is, all horses are the same color.
+%
+Theorem 1. Every horse has an infinite number of legs. (Proof by intimidation.)
 
+Proof. Horses have an even number of legs. Behind they have two legs and in front they have fore legs. This makes six legs, which is certainly an odd number of legs for a horse. But the only number that is both odd and even is infinity. Therefore horses have an infinite number of legs. Now to show that this is general, suppose that somewhere there is a horse with a finite number of legs. But that is a horse of another color, and by the lemma that does not exist.
+%
+Corollary 1. Everything is the same color.
 
+Proof. The proof of lemma 1 does not depend at all on the nature of the object under consideration. The predicate of the antecedent of the universally-quantified conditional 'For all x, if x is a horse, then x is the same color,' namely 'is a horse' may be generalized to 'is anything' without affecting the validity of the proof; hence, 'for all x, if x is anything, x is the same color.'
+%
+Corollary 2. Everything is white.
 
+Proof. If a sentential formula in x is logically true, then any particular substitution instance of it is a true sentence. In particular then: 'for all x, if x is an elephant, then x is the same color' is true. Now it is manifestly axiomatic that white elephants exist (for proof by blatant assertion consult Mark Twain 'The Stolen White Elephant'). Therefore all elephants are white. By corollary 1 everything is white.
+%
+Theorem 2. Alexander the Great did not exist and he had an infinite number of limbs.
 
+Proof. We prove this theorem in two parts. First we note the obvious fact that historians always tell the truth (for historians always take a stand, and therefore they cannot lie). Hence we have the historically true sentence, 'If Alexander the Great existed, then he rode a black horse Bucephalus.' But we know by corollary 2 everything is white; hence Alexander could not have ridden a black horse. Since the consequent of the conditional is false, in order for the whole statement to be true the antecedent must be false. Hence Alexander the Great did not exist.
+We have also the historically true statement that Alexander was warned by an oracle that he would meet death if he crossed a certain river. He had two legs; and 'forewarned is four-armed.' This gives him six limbs, an even number, which is certainly an odd number of limbs for a man. Now the only number which is even and odd is infinity; hence Alexander had an infinite number of limbs. We have thus proved that Alexander the Great did not exist and that he had an infinite number of limbs.  
+%
+In modern mathematics, algebra has become so important that numbers will soon only have symbolic meaning. 
+%
+Q: Why do Computer Scientists get Halloween and Christmas mixed up?
+A: Because Oct. 31 = Dec. 25. 
+%
+Life is complex: it has both real and imaginary components. 
+%
+Cantor did it diagonally.
 
+Fermat tried to do it in the margin, but couldn't fit it in.
 
+Galois did it the night before.
+
+Mðbius always does it on the same side.
+
+Markov does it in chains.
+
+Newton did it standing on the shoulders of giants.
+
+Turing did it but couldn't decide if he'd finished.
+%
+                      A SLICE OF PI
+ 
+                    ******************
+                     3.14159265358979
+                       1640628620899
+                        23172535940
+                         881097566
+                          5432664
+                           09171
+                            036
+                             5
+%
+Q:What is a proof?
+A: One-half percent of alcohol.
+%
+Q:What is a dilemma?
+A: A lemma that proves two results.
+%
